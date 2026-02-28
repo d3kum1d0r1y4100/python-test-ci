@@ -1,2 +1,2 @@
-# hydra-triage-prt-pip
-Triage test: PRT + pip install (exploitable)
+# Triage Test: PRT + pip
+Test repo for pipeline validation.
