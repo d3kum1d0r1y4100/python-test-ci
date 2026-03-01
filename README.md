@@ -1,2 +1,2 @@
-# Triage Test: PRT + pip
-Test repo for pipeline validation.
+# Python Test CI
+Python test runner setup.
